@@ -10,5 +10,7 @@ public class ResolveMergeConflictApplication {
 		SpringApplication.run(ResolveMergeConflictApplication.class, args);
 	}
 	String msg="bye everyone";
+	String msg="hii everyone";
 
+ 
 }
